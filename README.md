@@ -1,4 +1,9 @@
-### Hi there 👋
+# NatalieMcCormick
+### Business Analytics and Information Systems 
+### Tippie College of Business, The University of Iowa
+Pronouns: she/her/hers
+
+[LinkedIn] (https://www.linkedin.com/in/natalie-b-mccormick/)
 
 <!--
 **nataliemccormick7/nataliemccormick7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
